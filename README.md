@@ -161,6 +161,5 @@ Database:
 ### Sattineni Raj Kumar
 
 * GitHub: https://github.com/RAJKUMAR8199
-* LinkedIn: Add Your LinkedIn Here
-* Portfolio: Add Portfolio Link Here
+
 
